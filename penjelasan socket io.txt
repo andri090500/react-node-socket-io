@@ -1,0 +1,3 @@
+Socket.IO adalah library event-driven untuk aplikasi web real-time. Ini memungkinkan komunikasi dua arah secara real-time 
+antara klien web dan server. Ini terdiri dari dua bagian: perpustakaan sisi klien yang berjalan di browser, 
+dan perpustakaan sisi server untuk Node.js.
